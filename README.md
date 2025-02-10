@@ -58,6 +58,10 @@ Before running the pipeline, ensure you have:
 
 ---
 
+## How it's loook like 
+![Terraform Jenkins Pipeline](PipeLine.png)
+
+
 ## Troubleshooting
 
 ### **Error: No valid credential sources found**
